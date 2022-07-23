@@ -1,4 +1,4 @@
-# Nexus Web
+# Kavka Web
 
 Developed using Vue and Vite.
 
